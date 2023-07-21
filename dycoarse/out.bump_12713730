@@ -1,0 +1,13 @@
+==> Loading options from /nopt/nrel/ecom/exawind/exawind-2020-09-21/exawind-config-eagle.sh
+==> Setting TMPDIR=/scratch/kgriffin/.tmp
+==> Loading options from /nopt/nrel/ecom/exawind/exawind-2020-09-21/exawind-config-intel.sh
+==> Using modules: /nopt/nrel/ecom/hpacf/software/2020-07/spack/share/spack/modules/linux-centos7-skylake_avx512/intel-18.0.4
+==> binutils = /nopt/nrel/ecom/hpacf/compilers/2020-07/spack/opt/spack/linux-centos7-skylake_avx512/gcc-8.4.0/binutils-2.34-2drppsfmkeudqr3ll7zz7pqxlsszuh4b
+==> cmake = /nopt/nrel/ecom/hpacf/software/2020-07/spack/opt/spack/linux-centos7-skylake_avx512/intel-18.0.4/cmake-3.17.3-uy2ucxqmasxazikctxpxus2c27sh26jt
+==> intel-mpi = /nopt/nrel/ecom/hpacf/software/2020-07/spack/opt/spack/linux-centos7-skylake_avx512/intel-18.0.4/intel-mpi-2018.4.274-2auf5bfz5v7fmijcburii43z5x3vekoe
+==> No user environment actions defined
+Job name       = bump
+Num. nodes     = 1
+Num. MPI Ranks = 36
+Num. threads   = 1
+Working dir    = /projects/hfm/kgriffin/bump/nalu_runs/case1
